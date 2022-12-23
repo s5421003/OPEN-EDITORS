@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { fetchImages } from "./api";
+import { fetchImages } from "api";
 
 function Header() {
     return (
